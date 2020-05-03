@@ -1,0 +1,8 @@
+<strings>
+
+    <string id="AppName">harvest-widget</string>
+
+    <string id="AccessTokenTitle">Harvest API Access Token</string>
+    <string id="AccountIdTitle">Harvest API Account Id</string>
+    
+</strings>

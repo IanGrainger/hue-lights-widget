@@ -1,0 +1,6 @@
+<properties>
+
+    <property id="AccessToken" type="string">Go to https://id.getharvest.com/oauth2/access_tokens/new to create an Access Token</property>
+    <property id="AccountId" type="string">Use account Id - listen when you create an Access Token</property>
+
+</properties>

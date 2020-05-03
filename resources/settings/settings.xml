@@ -1,0 +1,11 @@
+<settings>
+
+    <setting propertyKey="@Properties.AccessToken" title="@Strings.AccessTokenTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+
+    <setting propertyKey="@Properties.AccountId" title="@Strings.AccountIdTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+
+</settings>
